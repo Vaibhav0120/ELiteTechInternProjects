@@ -19,6 +19,8 @@
 - [Usage](#usage)
 - [Acknowledgments](#Acknowledgments)
 
+<br>
+
 <h3 align="center">1. BMI Calculator</h3>
 <p align="center">The BMI Calculator program calculates your Body Mass Index (BMI) based on your weight and height.</p>
 
