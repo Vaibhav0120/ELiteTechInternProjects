@@ -1,6 +1,7 @@
 import random
 
 def roll_dice():
+    
     print("Welcome to the Dice Roll Simulator!")
     
     while True:

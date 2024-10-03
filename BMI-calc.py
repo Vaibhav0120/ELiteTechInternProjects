@@ -20,6 +20,7 @@ def calculate_bmi():
         else:
             classification = "Obese"
 
+
         print(f"\nYour BMI is: {bmi:.2f}")
         print(f"This is classified as: {classification}")
 

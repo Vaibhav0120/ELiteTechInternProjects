@@ -7,7 +7,7 @@ actions = ["found a hidden treasure", "rescued a friend", "fought a dragon", "di
            "made a new invention", "defeated an evil sorcerer", "solved a great mystery", "escaped from a dungeon"]
 companions = ["a talking cat", "an old wizard", "a friendly robot", "a magical unicorn", "a fearless knight"]
 obstacles = ["a storm", "a fierce battle", "a sudden earthquake", "a trap", "a dark cave", "an evil villain"]
-times = ["a long time ago", "yesterday", "last week", "in the future", "once upon a time", "many years ago"]
+times = ["A long time ago", "Yesterday", "Last week", "In the future", "Once upon a time", "Many years ago"]
 
 def generate_story():
     name = random.choice(names)
