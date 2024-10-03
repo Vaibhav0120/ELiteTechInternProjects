@@ -84,8 +84,8 @@ To run these programs on your local machine, you need Python installed. Follow t
 2. Run the desired Python program:
 
 <h3 align="center">Usage</h3>
-Each program is designed to be interactive. Follow the on-screen prompts to use the program effectively. You can repeat actions as desired and explore various functionalities.
+<p align="center">Each program is designed to be interactive. Follow the on-screen prompts to use the program effectively. You can repeat actions as desired and explore various functionalities.</p>
 
 <h3 align="center">Acknowledgments</h3>
-Thank you to the ELiteTech team for the opportunity to learn and grow during this internship.
+<p align="center">Thank you to the ELiteTech team for the opportunity to learn and grow during this internship.</p>
 
