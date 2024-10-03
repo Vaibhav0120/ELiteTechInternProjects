@@ -52,19 +52,19 @@ The Random Story Generator creates a unique story each time it runs.
 ## Screenshots
 
 ### BMI Calculator
-![BMI Calculator](screenshots/bmi_calculator.png)
+![BMI Calculator](https://github.com/user-attachments/assets/24b4647e-c6db-4491-9f2a-fd238bc20137)
 
 ### Dice Roll Simulator
-![Dice Roll Simulator](screenshots/dice_roll_simulator.png)
+![Dice Roll Simulator](https://github.com/user-attachments/assets/dd366d25-d712-4954-bb00-fc7b2c9c36f2)
 
 ### Acronym Creator
-![Acronym Creator](screenshots/acronym_creator.png)
+![Acronym Creator](https://github.com/user-attachments/assets/3c72160e-39f9-42dd-bdf5-4ecdf7a4dd6c)
 
 ### Email Slicer
-![Email Slicer](screenshots/email_slicer.png)
+![Email Slicer](https://github.com/user-attachments/assets/27e1abe1-2b6c-4429-8403-22bcc693e930)
 
 ### Random Story Generator
-![Random Story Generator](screenshots/random_story_generator.png)
+![Random Story Generator](https://github.com/user-attachments/assets/36a78baf-c279-4665-bfc3-2c8233dd1b9b)
 
 ## Installation
 To run these programs on your local machine, you need Python installed. Follow these steps:
