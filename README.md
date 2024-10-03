@@ -89,4 +89,6 @@ To run these programs on your local machine, you need Python installed. Follow t
 <h3 align="center">Acknowledgments</h3>
 <p align="center">Thank you to the ELiteTech team for the opportunity to learn and grow during this internship.</p>
 
-<img align="center" alt="ELiteTech Intern Offer Letter" width="400" src="https://github.com/user-attachments/assets/fe46c71f-08d4-4e26-8822-83b3337fd606">
+<p align="center">
+   <img alt="ELiteTech Intern Offer Letter" width="400" src="https://github.com/user-attachments/assets/fe46c71f-08d4-4e26-8822-83b3337fd606">
+</p>
