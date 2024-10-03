@@ -13,7 +13,7 @@ def acronym_creator():
 
         print(f"The acronym for '{phrase}' is: {acronym}")
         
-        use_again = input("\nDo you want to create another acronym? (yes/y or no): ").lower()
+        use_again = input("\nDo you want to create another acronym? (yes or no): ").lower()
         if use_again not in ['yes', 'y']:
             print("Thanks for using the Acronym Creator! Goodbye!")
             break
