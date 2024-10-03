@@ -7,6 +7,8 @@
 
 <h3 align="center">Table of Contents</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
 - [1. BMI Calculator](#1-bmi-calculator)
 - [2. Dice Roll Simulator](#2-dice-roll-simulator)
 - [3. Acronym Creator](#3-acronym-creator)
