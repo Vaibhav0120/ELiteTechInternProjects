@@ -71,3 +71,12 @@ To run these programs on your local machine, you need Python installed. Follow t
 1. Clone this repository:
    ```bash
    git clone https://github.com/Vaibhav0120/ELiteTechInternProjects.git
+
+2. Run the desired Python program:
+
+###Usage
+Each program is designed to be interactive. Follow the on-screen prompts to use the program effectively. You can repeat actions as desired and explore various functionalities.
+
+###Acknowledgments
+Thank you to the ELiteTech team for the opportunity to learn and grow during this internship.
+
