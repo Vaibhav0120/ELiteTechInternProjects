@@ -11,6 +11,7 @@ Welcome to the ELiteTech Intern Projects repository! Here you'll find a collecti
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Acknowledgments](#Acknowledgments)
 
 ## 1. BMI Calculator
 The BMI Calculator program calculates your Body Mass Index (BMI) based on your weight and height.
